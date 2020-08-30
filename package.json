@@ -1,0 +1,23 @@
+{
+  "name": "bootstrapcourse",
+  "version": "1.0.0",
+  "description": "This is a test directory to learn Node.js",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carloosbaroon/BootstrapCourse.git"
+  },
+  "author": "Carlos Baron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carloosbaroon/BootstrapCourse/issues"
+  },
+  "homepage": "https://github.com/carloosbaroon/BootstrapCourse#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
